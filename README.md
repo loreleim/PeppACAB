@@ -1,2 +1,2 @@
 # PeppACAB
- Arduino based peppa pig script that makes a stuffed animal reply ACAB to images of cops. 
+ Arduino.py based script that makes a peppa pig stuffed animal reply ACAB to images of cops. 
